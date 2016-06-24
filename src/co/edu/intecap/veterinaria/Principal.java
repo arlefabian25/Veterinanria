@@ -40,6 +40,7 @@ public class Principal extends javax.swing.JFrame {
       asignarListeners();
       Utilidad.leerArchivoPerros();
       Utilidad.leerArchivoGatos();
+      //Actualizacion al iniciar el proyecto, carga de informacion de los archivos planos
       actualizarListas();
       //lstPerros.getSe
    }
